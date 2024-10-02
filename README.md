@@ -8,12 +8,13 @@
 
 ## Features 
 
-1. Camera Detection
-2. Location Instruction
-3. Voice Command
-4. Electric circuit short
-5. Calling speed
-6. Password (voice, finger touch, skin touch)
+1. Camera Detection.
+2. Location Instruction.
+3. Voice Command.
+4. Electric circuit short.
+5. Calling speed.
+6. Password (voice, finger touch, skin touch).
+7. Video and Voice Recording Facility for Sending Messages.
 
 
 ## Objective ✍️
