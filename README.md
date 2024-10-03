@@ -28,7 +28,7 @@
 - Make everyone feel safe in any worst-case situation.
 
 
-## Collaboration and Contribution 🚀
+## Collaboration and Contribution🤝🧑‍💻
 
 [ I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀 ] 
 
