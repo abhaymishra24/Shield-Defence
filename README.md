@@ -16,6 +16,8 @@
 6. Password (voice, finger touch, skin touch).
 7. Video and Voice Recording Facility for Sending Messages.
 
+- Other features are also being explored and work is underway.🚀
+
 
 ## Objective ✍️
 
