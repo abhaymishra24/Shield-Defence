@@ -15,6 +15,7 @@
 5. Calling speed.
 6. Password (voice, finger touch, skin touch).
 7. Video and Voice Recording Facility for Sending Messages.
+8. flash blindness attack.
 
 - Other features are also being explored and work is underway.🚀
 
