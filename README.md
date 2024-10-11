@@ -33,12 +33,8 @@ I would like to welcome everyone who can contribute to this project, discuss it,
 
 For Discuss more about project, reach out to me (techabhay06@gmail.com)
 
-<<<<<<< HEAD
-## Creater - [ Abhay Mishra 🧑‍💻 ]  
+## Creator - [ Abhay Mishra 🧑‍💻 ]
 
-=======
-## Creator - [ Abhay Mishra 🧑‍💻 ]  
->>>>>>> 3a9dc334eed72459b02b3ddd7e91239678cd21e2
 I designed the picture of the Shield Device (SD) on paper. I am coding on the VS Code platform and trying to build and add features with new ideas and creativity. I always welcome all of you to discuss the project, solve real-world problems, and participate in meetings. I also enjoy meeting people, talking to them, and getting to know them.
 
 Reach out to me- [techabhay06@gmail.com]
