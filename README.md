@@ -2,11 +2,11 @@
 
 This project focuses on developing a self-defense device that resembles a watch. It can be worn like a watch and used for personal protection. It is called the Shield Device (SD).
 
-## Project Description 📄
+## Project Description✍️
 
 This project focuses on developing a self-defense device that resembles a watch. It can be worn like a watch and used for personal protection. Building programming technology to be deployed in a physical device (SD)that performs different tasks and functions for self-defense.  In this device, we will build a function that works on camera detection, calling speed, location instructions, voice command, electric circuit short and many other features.
  
-## Objective ✍️
+## Objective✍️
 
 - Making it for self-defense.
 - Try to stop crimes against women and men in the world.
@@ -14,7 +14,7 @@ This project focuses on developing a self-defense device that resembles a watch.
 - Build a device that assembles all security features.
 - Make everyone feel safe in any worst-case situation.
 
-## Features 
+## Features-
 
 1. Camera Detection.
 2. Location Instruction.
@@ -41,5 +41,5 @@ Reach out to me- [techabhay06@gmail.com]
 
 ## Thank you for visiting this repository😊
 
-- Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🚀
+Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🚀
 
