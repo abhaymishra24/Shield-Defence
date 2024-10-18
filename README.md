@@ -31,13 +31,13 @@ This project focuses on developing a self-defense device that resembles a watch.
 
 I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
 
-For Discuss more about project, reach out to me (techabhay06@gmail.com)
+For Discuss more about project, reach out to me - (techabhay06@gmail.com)
 
 ## Creator - [ Abhay Mishra 🧑‍💻 ]
 
 I designed the picture of the Shield Device (SD) on paper. I am coding on the VS Code platform and trying to build and add features with new ideas and creativity. I always welcome all of you to discuss the project, solve real-world problems, and participate in meetings. I also enjoy meeting people, talking to them, and getting to know them.
 
-Reach out to me- [techabhay06@gmail.com]
+Reach out to me- (techabhay06@gmail.com)
 
 ## Thank you for visiting this repository😊
 
