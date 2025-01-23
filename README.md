@@ -1,6 +1,5 @@
 
 ## Shield Defence project (Self Defence Device)
-
 This project focuses on developing a self-defense device that resembles a watch. It can be worn like a watch and used for personal protection. 
 It is called the Shield Device (SD).
 
@@ -10,7 +9,7 @@ It can be worn like a watch and used for personal protection.
 Building programming technology to be deployed in a physical device (SD)that performs different tasks and functions for self-defense.  
 In this device, we will build a function that works on camera detection, calling speed, location instructions, voice command, electric circuit short and many other features.
  
-### Objective✍️
+### Objective and work✍️
 - Making it for self-defense.
 - Try to stop crimes against women and men in the world.
 - Try to stop crimes against women, such as rape, torture, and many others in the world with the help of this device.
@@ -27,13 +26,14 @@ In this device, we will build a function that works on camera detection, calling
 7. Video and Voice Recording Facility for Sending Messages.
 8. flash blindness attack.
 
-- Other features are also being explored and work is underway.🚀
+##### Other features are also being explored and work is underway.🚀
 
 ### Collaboration and Contribution🤝🧑‍💻
 
-I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
+I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. 
+I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
 
-For Discuss more about project, reach out to me - (techabhay06@gmail.com)
+##### For Discuss more about project, reach out to me - (techabhay06@gmail.com)
 
 ### Creator - [ Abhay Mishra 🧑‍💻 ]
 
