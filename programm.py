@@ -1,3 +1,3 @@
 
-# Here we design programming method and structure for use in this project. 
-# we use diferent programming languages and laibries for many feature.
+"In this section, we will design the programming methods and structures to be used in this project."
+"We use different programming languages and libraries for many features."
